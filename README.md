@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi</h1>
-<h3 align="center">"As a passionate college freshman majoring in Computer Science, I’m driven by a strong ambition to become a skilled Software Developer. My enthusiasm for technology fuels my continuous learning and exploration, as I eagerly embrace new challenges and stay updated with the latest trends in the tech world. With a solid foundation in coding and a keen interest in problem-solving, I'm committed to honing my skills and making a meaningful impact in the field."</h3>
+<h3 align="center">As a passionate college freshman majoring in Computer Science, I’m driven by a strong ambition to become a skilled Software Developer. My enthusiasm for technology fuels my continuous learning and exploration, as I eagerly embrace new challenges and stay updated with the latest trends in the tech world. With a solid foundation in coding and a keen interest in problem-solving, I'm committed to honing my skills and making a meaningful impact in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishidevelops&label=Profile%20views&color=0e75b6&style=flat" alt="rishidevelops" /> </p>
 
